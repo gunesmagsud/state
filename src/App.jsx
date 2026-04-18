@@ -1,9 +1,12 @@
+import Say from "./components/Say"
+
 function App() {
 
 
   return (
     <>
-    <h1>Tural derse bax</h1>
+    
+    <Say></Say>
     </>
   )
 }
